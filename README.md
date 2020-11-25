@@ -1,6 +1,6 @@
 # An Analysis of Questions on Stack Overflow
 
-Team Name: The Out of Bounds \n
+Team Name: The Out of Bounds <br />
 Team Members: Nina Kaake, Jung Hoon Seo, and Harrison Collins
 
 Please install the following dependencies before running our notebook:
