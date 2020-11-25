@@ -21,3 +21,4 @@ Please install the following dependencies before running our notebook:
 - pip install collections
 - pip install nltk
 - pip install string
+- pip install functools
